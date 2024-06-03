@@ -61,8 +61,9 @@
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p> 
 
-### <img src="https://cdn3.emoji.gg/emojis/5619_caxinha_trophy.png" width="45px"> Projects
-<p>Some Cool projects made by me</p>
+### <img src="https://cdn3.emoji.gg/emojis/5619_caxinha_trophy.png" width="45px"> Wakatime
+[![Joseluu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joseluuu315)]
+
 
  
 ### <img src="https://cdn3.emoji.gg/emojis/5619_caxinha_trophy.png" width="45px"> Achivements
