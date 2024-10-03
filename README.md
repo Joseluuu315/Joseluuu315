@@ -6,10 +6,10 @@
 <a align="left" href="https://wakatime.com/@b0a5de9a-56ed-4348-8790-cc98ac53626f"><img src="https://wakatime.com/badge/user/b0a5de9a-56ed-4348-8790-cc98ac53626f.svg" alt="Total time coded since Jun 3 2024" /></a>
 
  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a BackEnd and FrontEnd Developer, currently working at <a href="https://www.solventium.es"> Solventium </a> / <a href="https://framework.zumito.ga/"> ZumitoTeam </a> 
+- 👩‍🏫 CEO <a href="https://dgtalit.com/"> DGTalit </a>
+- 🏦 I'm a BackEnd and FrontEnd Developer, currently working at <a href="https://www.solventium.es"> Solventium </a> / <a href="https://nosolounaidea.es/"> NSI </a> 
 - 💻 I use daily ``.html/.php/.java/.xml/``, ``.css/.scss``, ``.js/.ts``, ``.sql``, ``.sh/.bat``
 - 💖 My favorite programming language is Java.
-- 👩‍🏫 Love teaching and sharing knowledge.
 - 🧐 Learning about **IA**
 - ⌨️ My favourite IDE is ``Intellij``.
 - ⚡ Fun fact: I like videogames too, but especially those where you can code something inside them
