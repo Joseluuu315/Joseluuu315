@@ -7,7 +7,7 @@
 
  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 👩‍🏫 CEO <a href="https://dgtalit.com/"> DGTalit </a>
-- 🏦 I'm a BackEnd and FrontEnd Developer, currently working at <a href="https://www.solventium.es"> Solventium </a> / <a href="https://nosolounaidea.es/"> NSI </a> 
+- 🏦 I'm a BackEnd and FrontEnd Developer, currently working at <a href="https://www.solventium.es"> Solventium </a> / <a href="https://dgtalit.com/"> DGTalit </a>
 - 💻 I use daily ``.html/.php/.java/.xml/``, ``.css/.scss``, ``.js/.ts``, ``.sql``, ``.sh/.bat``
 - 💖 My favorite programming language is Java.
 - 🧐 Learning about **IA**
