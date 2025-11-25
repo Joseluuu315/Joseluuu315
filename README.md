@@ -68,10 +68,4 @@
 
  
 ### <img src="https://cdn3.emoji.gg/emojis/5619_caxinha_trophy.png" width="45px"> Achivements
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Joselu315" alt="Joseluuu315" /></a> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joselu315&show_icons=true&locale=en&layout=compact" alt="Joseluuu315" /><img src="https://github-readme-stats.vercel.app/api?username=Joselu315&show_icons=true&locale=en" alt="Joseluuu315" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseluuu315&" alt="Joseluuu315" /></p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
