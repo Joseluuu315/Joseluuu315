@@ -65,7 +65,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseluuu315&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluuu315&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
@@ -73,8 +72,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/jos%C3%A9-luis-fuentes-parra-80bb96257/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:joselufupa2016@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 ---
