@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hola, soy <a href="https://averonix.org">José Luis</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://averonix.org">José Luis</a></h1>
 <h3 align="center">Full-Stack Developer | CEO at Averonix | Software Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joselu315&label=Profile+Views&color=0e76a8&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Joseluuu315&label=Profile+Views&color=0e76a8&style=flat-square" alt="Profile Views since account creation"/>
   <a href="https://wakatime.com/@b0a5de9a-56ed-4348-8790-cc98ac53626f">
     <img src="https://wakatime.com/badge/user/b0a5de9a-56ed-4348-8790-cc98ac53626f.svg" alt="Coding Time"/>
   </a>
@@ -10,20 +10,21 @@
 
 ---
 
-### 📖 Resumen Profesional
+### 📖 Professional Overview
 
-Soy un desarrollador apasionado por la arquitectura de software y la eficiencia. Como **CEO de Averonix**, lidero proyectos de alto impacto, combinando mi experiencia en el sector privado (**Solventium / DGTalit**) con una búsqueda constante de innovación en **IA** y sistemas distribuidos.
+I am a software developer passionate about clean architecture and system efficiency. As the **CEO of Averonix**, I lead high-impact projects by blending my experience in the private sector with a constant drive for innovation in **AI** and distributed systems.
 
-| 🚀 Experiencia Actual | 🛠️ Especialidad | 🧠 Foco de Aprendizaje |
+| 🚀 Current Experience | 🛠️ Specialization | 🧠 Learning Focus |
 | :--- | :--- | :--- |
-| **CEO** en [Averonix](https://averonix.org) | Arquitectura Java & .NET | Inteligencia Artificial |
-| **Full-Stack** en Solventium | Integración de APIs & SQL | Ciberseguridad en Web |
+| **CEO** at [Averonix](https://averonix.org) | Java & .NET Architecture | Artificial Intelligence |
+| **Head Developer** at [DGTalit](https://www.dgtalit.com/) | Enterprise Solutions | AI Integration |
+| **Full-Stack** at Solventium | API Design & SQL Systems | Web Cybersecurity |
 
 ---
 
-### 💻 Mi Arsenal Tecnológico
+### 💻 Tech Stack
 
-#### 🟦 Backend & Sistemas
+#### 🟦 Backend & Systems
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,py,mysql,mongodb,docker,linux,bash" />
@@ -39,22 +40,22 @@ Soy un desarrollador apasionado por la arquitectura de software y la eficiencia.
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 GitHub Activity
 
-> **Nota:** Si las tarjetas no cargan, es debido a la caché de GitHub. He optimizado las queries para mejorar la disponibilidad.
+> **Note:** Stats reflect real-time contributions. If cards don't load, please refresh the page.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joselu315&show_icons=true&theme=tokyonight&border_radius=10" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joselu315&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joseluuu315&show_icons=true&theme=tokyonight&border_radius=10" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluuu315&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joselu315&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseluuu315&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Contacto & Redes
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-luis-fuentes-parra-80bb96257/">
