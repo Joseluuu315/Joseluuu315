@@ -1,70 +1,73 @@
-<h1 align="center">👋 Hola, soy <strong>José Luis</strong></h1>
-<h3 align="center">Full-Stack Developer | CEO at Averonix | Based in Spain 🇪🇸</h3>
+<h1 align="center">👋 Hola, soy <a href="https://averonix.org">José Luis</a></h1>
+<h3 align="center">Full-Stack Developer | CEO at Averonix | Software Architect</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joselu315&label=Profile+Views&color=0e76a8&style=flat-square" alt="Profile Views"/>
   <a href="https://wakatime.com/@b0a5de9a-56ed-4348-8790-cc98ac53626f">
     <img src="https://wakatime.com/badge/user/b0a5de9a-56ed-4348-8790-cc98ac53626f.svg" alt="Coding Time"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Joseluuu315&label=Profile+Views&color=0e76a8&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre Mí  
+### 📖 Resumen Profesional
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180">
+Soy un desarrollador apasionado por la arquitectura de software y la eficiencia. Como **CEO de Averonix**, lidero proyectos de alto impacto, combinando mi experiencia en el sector privado (**Solventium / DGTalit**) con una búsqueda constante de innovación en **IA** y sistemas distribuidos.
 
-- 🏢 **CEO & Head-Developer** en [**Averonix**](https://averonix.org)
-- 🚀 **Full-Stack Developer** en **Solventium** / **DGTalit**
-- ❤️ Mi lenguaje predilecto es **Java**, aunque domino un amplio espectro tecnológico.
-- 🔥 Actualmente profundizando en **Inteligencia Artificial (IA)**.
-- ⚙️ Mi búnker de desarrollo es `IntelliJ IDEA`.
-- 🎮 **Fun fact:** Me fascinan los videojuegos tipo "sandbox" donde puedes programar dentro de ellos.
+| 🚀 Experiencia Actual | 🛠️ Especialidad | 🧠 Foco de Aprendizaje |
+| :--- | :--- | :--- |
+| **CEO** en [Averonix](https://averonix.org) | Arquitectura Java & .NET | Inteligencia Artificial |
+| **Full-Stack** en Solventium | Integración de APIs & SQL | Ciberseguridad en Web |
 
 ---
 
-### 🛠 Tech Stack
+### 💻 Mi Arsenal Tecnológico
 
-**Lenguajes y Core**
+#### 🟦 Backend & Sistemas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,php,py,js,ts,html,css,scss,mysql,mongodb,bash" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,py,mysql,mongodb,docker,linux,bash" />
   </a>
 </p>
 
-**Frameworks, Herramientas y Entornos**
+#### 🟧 Frontend & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,svelte,tailwind,docker,linux,git,idea,vscode,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=js,ts,angular,svelte,tailwind,html,css,idea,vscode,git,vercel" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Actividad en GitHub
+
+> **Nota:** Si las tarjetas no cargan, es debido a la caché de GitHub. He optimizado las queries para mejorar la disponibilidad.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseluuu315&show_icons=true&theme=tokyonight&count_private=true" height="175" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseluuu315&layout=compact&theme=tokyonight&hide=html,css" height="175" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joselu315&show_icons=true&theme=tokyonight&border_radius=10" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joselu315&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseluuu315&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joselu315&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Conecta Conmigo
+### 🤝 Contacto & Redes
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-luis-fuentes-parra-80bb96257/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joselufupa2016@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://averonix.org">
+    <img src="https://img.shields.io/badge/Website-Averonix-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center"> 
-  ⭐ <i>If you like my work, don't forget to follow and leave a star!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
