@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://averonix.org">José Luis</a></h1>
-<h3 align="center">Full-Stack Developer | CEO at Averonix | Software Architect</h3>
+<h3 align="center">Full-Stack Developer | Software Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Joseluuu315&label=Profile+Views&color=0e76a8&style=flat-square" alt="Profile Views since account creation"/>
@@ -16,7 +16,6 @@ I am a software developer passionate about clean architecture and system efficie
 
 | 🚀 Current Experience | 🛠️ Specialization | 🧠 Learning Focus |
 | :--- | :--- | :--- |
-| **CEO** at [Averonix](https://averonix.org) | Java & .NET Architecture | Artificial Intelligence |
 | **Head Developer** at [DGTalit](https://www.dgtalit.com/) | Enterprise Solutions | AI Integration |
 | **Full-Stack** at Solventium | API Design & SQL Systems | Web Cybersecurity |
 
