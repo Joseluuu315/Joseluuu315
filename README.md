@@ -14,7 +14,7 @@
 
 I am a software developer passionate about clean architecture and system efficiency. As the **Head Admin at DGTalit**, I lead high-impact projects by blending my experience in the private sector with a constant drive for innovation in **AI** and distributed systems.
 
-| 🚀 Current Experience | 🛠️ Specialization | 🧠 Learning Focus |
+| 🚀 Experience | 🛠️ Specialization | 🧠 Learning Focus |
 | :--- | :--- | :--- |
 | **Head Developer** at [DGTalit](https://www.dgtalit.com/) | Enterprise Solutions | AI Integration |
 | **Full-Stack** at Solventium | API Design & SQL Systems | Web Cybersecurity |
