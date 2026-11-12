@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Head_Developer-1A1B27?style=for-the-badge&logo=githubcopilot&logoColor=7AA2F7&labelColor=1A1B27" alt="Head Developer"><br>
 <img src="https://img.shields.io/badge/Head_Admin-1A1B27?style=for-the-badge&logo=linux&logoColor=7AA2F7&labelColor=1A1B27" alt="Head Admin"><br><br>
 <a href="https://www.dgtalit.com/"><img src="https://img.shields.io/badge/DGTalit-dgtalit.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=1A1B27" alt="DGTalit"></a><br><br>
-<img src="https://img.shields.io/badge/Present-9ECE6A?style=flat-square&labelColor=1A1B27" alt="Present"><br><br>
+<img src="https://img.shields.io/badge/Past-565F89?style=flat-square&labelColor=1A1B27" alt="Past"><br><br>
 <img src="https://img.shields.io/badge/SaaS_architecture-565F89?style=flat-square&labelColor=1A1B27" alt="SaaS architecture">
 <img src="https://img.shields.io/badge/Production_operations-565F89?style=flat-square&labelColor=1A1B27" alt="Production operations">
 
